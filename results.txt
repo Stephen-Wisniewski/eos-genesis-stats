@@ -1,0 +1,10 @@
+The total number of genesis eos addresses: 163930
+The total number of eos coins that made it into the snapshot are: 996690678.8329
+The average eos account has: 6079.9773 coins.
+The median balance is: 102.0442.
+The lowest balance is: 1.0000.
+The top 10 addresses own 49.838485443654892369706542140% of all the eos coins.
+The top 100 addresses own 75.066100982051569355652434310% of all the eos coins.
+The top 1000 addresses own 86.09696077564782979736359344% of all the eos coins.
+The top 10000 addresses own 95.06574087752202737378457090% of all the eos coins.
+Block.one holds 10% of the supply: 100000000.0100.
